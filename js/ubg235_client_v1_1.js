@@ -1,3 +1,5 @@
+//AUG Patch prevents this script from running, as the JS it loads is literally storing information about you for ads. Stay safe out there.
+
 function loadJS(FILE_URL, async = true) {
   let scriptEle = document.createElement("script");
 
